@@ -1,2 +1,2 @@
 # hello-world
-A basic test repo
+I'm a dude trying to learn this cool stuff.
